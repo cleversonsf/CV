@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.objetivo {
+	float: left;
+	text-align: left;
+	width: 100%;
+}
+.conhecimento {
+	float: left;
+	text-align: left;
+	width: 100%;
+}
+.formacao {
+	float: left;
+	text-align: left;
+    width: 100%;
+}
+.experiencia {
+	float: left;
+	text-align: left;
+    width: 100%;
+}
